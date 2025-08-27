@@ -18,6 +18,3 @@ def run_scrapers():
     for sitio in sitios:
         print(f"Scrapeando {sitio['nombre']}...")
         SCRAPERS[sitio["nombre"]](sitio["url"], sitio["output"])
-
-if __name__ == "__main__":
-    run_scrapers()

@@ -1,4 +1,4 @@
-# Script principal de ejecución
+from src.scrapers.main_scraper import run_scrapers
 
 if __name__ == "__main__":
-    print("Proyecto de Scraping Inmobiliario listo para comenzar.")
+    run_scrapers()

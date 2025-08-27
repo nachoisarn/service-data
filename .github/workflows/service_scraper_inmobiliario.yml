@@ -31,7 +31,7 @@ jobs:
       - name: Run scrapers
         run: |
           cd scraper-inmobiliario
-          python -m src.scrapers.main_scraper
+          python -m src.main
 
 
       # Opcional: sube lo que se haya generado (si no hay archivos, NO falla)

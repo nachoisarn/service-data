@@ -1,4 +1,4 @@
-# Requisitos del proyecto
-requests==2.32.4
-beautifulsoup4==4.13.4
-
+# Networking y scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==2.2.1

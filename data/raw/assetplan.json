@@ -1,0 +1,1313 @@
+[
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Serrano Capital",
+    "direccion": "Serrano 562\n                                        , Santiago",
+    "precio": "$340.000 - $375.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/serrano-capital/3201",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Gimnasio",
+      "Jardines",
+      "Juegos infantiles",
+      "Lavandería",
+      "Lockers",
+      "Pet Spa",
+      "Piscina",
+      "Portón eléctrico",
+      "Quincho",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Terraza Panorámica",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 31 a 36\n                                                                m² útiles",
+        "precio": "$340.000 - $375.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/serrano-capital/3201"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 45 a 54\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/serrano-capital/3201"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:29Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Toledo Rent",
+    "direccion": "Álvarez de Toledo 672\n                                        , San Miguel",
+    "precio": "$342.000 - $595.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/edificio/toledo-rent/3181",
+    "comodidades": [
+      "Áreas verdes",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Condominio",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Lavandería",
+      "Piscina",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Seguridad",
+      "Transporte urbano cercano"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 35 a 36\n                                                                m² útiles",
+        "precio": "$342.000 - $353.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/1-dormitorio/toledo-rent/3181"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 26 a 26\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/estudio/toledo-rent/3181"
+      },
+      {
+        "dormitorios": "3",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 58 a 58\n                                                                m² útiles",
+        "precio": "$595.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/3-dormitorios/toledo-rent/3181"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 51 a 55\n                                                                m² útiles",
+        "precio": "$485.000 - $550.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/2-dormitorios/toledo-rent/3181"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:30Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Vista Parque",
+    "direccion": "Av. Pedro de Valdivia 5223\n                                        , Ñuñoa",
+    "precio": "$400.000 - $418.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/edificio/vista-parque/3007",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de internet",
+      "Sala de juegos",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 32 a 33\n                                                                m² útiles",
+        "precio": "$400.000 - $418.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/1-dormitorio/vista-parque/3007"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 42 a 51\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/2-dormitorios/vista-parque/3007"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:32Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Carnot",
+    "direccion": "Carnot 1069\n                                        , San Miguel",
+    "precio": "$306.000 - $485.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/edificio/carnot/2839",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Cowork",
+      "Estacionamiento de visitas",
+      "Gimnasio",
+      "Jardines",
+      "Juegos infantiles",
+      "Lavandería",
+      "Piscina",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 52 a 52\n                                                                m² útiles",
+        "precio": "$485.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/2-dormitorios/carnot/2839"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 29 a 32\n                                                                m² útiles",
+        "precio": "$306.000 - $349.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/1-dormitorio/carnot/2839"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:33Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio FAM Huemul",
+    "direccion": "Centenario 1329\n                                        , Santiago",
+    "precio": "$295.000 - $350.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/fam-huemul/2499",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Conserjería",
+      "Cuarto de servicio",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Lockers",
+      "Piscina",
+      "Portón eléctrico",
+      "Propiedades Nuevas",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Transporte urbano cercano"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 35 a 36\n                                                                m² útiles",
+        "precio": "$313.000 - $350.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/fam-huemul/2499"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 50 a 54\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/fam-huemul/2499"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 29 a 30\n                                                                m² útiles",
+        "precio": "$295.000 - $297.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/fam-huemul/2499"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:34Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Nuevo Oriente I",
+    "direccion": "Sta. Elena 1486\n                                        , Santiago",
+    "precio": "$272.000 - $426.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/nuevo-oriente-i/2935",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Quincho",
+      "Sala de eventos/ gourmet"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 30 a 31\n                                                                m² útiles",
+        "precio": "$272.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/nuevo-oriente-i/2935"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 29 a 39\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/nuevo-oriente-i/2935"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 36 a 48\n                                                                m² útiles",
+        "precio": "$341.000 - $426.000",
+        "unidades_disponibles": "10+",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/nuevo-oriente-i/2935"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:36Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Espacio Oriente II Torre A",
+    "direccion": "Sta. Elena 1278\n                                        , Santiago",
+    "precio": "$289.000 - $380.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/espacio-oriente-ii-torre-a/2932",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Condominio",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 18 a 26\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/espacio-oriente-ii-torre-a/2932"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 29 a 36\n                                                                m² útiles",
+        "precio": "$289.000 - $303.000",
+        "unidades_disponibles": "8",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/espacio-oriente-ii-torre-a/2932"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 38 a 42\n                                                                m² útiles",
+        "precio": "$344.000 - $380.000",
+        "unidades_disponibles": "4",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/espacio-oriente-ii-torre-a/2932"
+      },
+      {
+        "dormitorios": "3",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 43 a 43\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/3-dormitorios/espacio-oriente-ii-torre-a/2932"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:38Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Nueva Valdés",
+    "direccion": "Nueva de Valdés 657\n                                        , Santiago",
+    "precio": "$275.000 - $420.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/nueva-valdes/3138",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Condominio",
+      "Conserjería",
+      "Cowork",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Lavandería",
+      "Lockers",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Terraza Panorámica",
+      "Transporte urbano cercano",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 45 a 49\n                                                                m² útiles",
+        "precio": "$415.000 - $420.000",
+        "unidades_disponibles": "4",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/nueva-valdes/3138"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 27 a 29\n                                                                m² útiles",
+        "precio": "$275.000 - $280.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/nueva-valdes/3138"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 31 a 32\n                                                                m² útiles",
+        "precio": "$310.000 - $320.000",
+        "unidades_disponibles": "5",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/nueva-valdes/3138"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:39Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Vicuña Capital",
+    "direccion": "Av. Vicuña Mackenna 1441\n                                        , Santiago",
+    "precio": "$340.000 - $495.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/vicuna-capital/2752",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Condominio",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Juegos infantiles",
+      "Lavandería",
+      "Lockers",
+      "Pet Spa",
+      "Portón eléctrico",
+      "Propiedades Nuevas",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de juegos",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Transporte urbano cercano",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 28 a 34\n                                                                m² útiles",
+        "precio": "$340.000 - $385.000",
+        "unidades_disponibles": "9",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/vicuna-capital/2752"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 45 a 45\n                                                                m² útiles",
+        "precio": "$495.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/vicuna-capital/2752"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:40Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Exequiel Fernandez",
+    "direccion": "Exequiel Fernández 2000\n                                        , Ñuñoa",
+    "precio": "$450.000 - $630.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/edificio/exequiel-fernandez/1782",
+    "comodidades": [
+      "Gimnasio",
+      "Lavandería",
+      "Pet Spa",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Terraza Panorámica"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 35 a 35\n                                                                m² útiles",
+        "precio": "$450.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/1-dormitorio/exequiel-fernandez/1782"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 48 a 56\n                                                                m² útiles",
+        "precio": "$535.000 - $630.000",
+        "unidades_disponibles": "6",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/2-dormitorios/exequiel-fernandez/1782"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:41Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Home Inclusive Carmen",
+    "direccion": "Carmen 668\n                                        , Santiago",
+    "precio": "$279.000 - $469.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/home-inclusive-carmen/3076",
+    "comodidades": [
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Citófono",
+      "Conserjería",
+      "Cowork",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Pet Spa",
+      "Sala de eventos/ gourmet",
+      "Sala de internet",
+      "Sala de juegos",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 24 a 24\n                                                                m² útiles",
+        "precio": "$279.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/home-inclusive-carmen/3076"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 34 a 45\n                                                                m² útiles",
+        "precio": "$314.000 - $330.000",
+        "unidades_disponibles": "6",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/home-inclusive-carmen/3076"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 49 a 60\n                                                                m² útiles",
+        "precio": "$448.000 - $469.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/home-inclusive-carmen/3076"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:42Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Santa Rosa",
+    "direccion": "Av. Sta. Rosa 1185\n                                        , Santiago",
+    "precio": "$271.000 - $356.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/santa-rosa/2937",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bodega",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Chimenea",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Quincho",
+      "Sala de eventos/ gourmet"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 30 a 33\n                                                                m² útiles",
+        "precio": "$271.000 - $281.000",
+        "unidades_disponibles": "5",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/santa-rosa/2937"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 38 a 39\n                                                                m² útiles",
+        "precio": "$350.000 - $356.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/santa-rosa/2937"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 22 a 26\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/santa-rosa/2937"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:43Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Midtown Santiago",
+    "direccion": "Arturo Prat 621\n                                        , Santiago",
+    "precio": "$294.000 - $523.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/midtown-santiago/2274",
+    "comodidades": [
+      "Accesos Controlados",
+      "Bicicletero",
+      "Citófono",
+      "Estacionamiento de visitas",
+      "Gimnasio",
+      "Pet Spa",
+      "Piscina",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón lounge"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 49 a 50\n                                                                m² útiles",
+        "precio": "$519.000 - $523.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/midtown-santiago/2274"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 33 a 35\n                                                                m² útiles",
+        "precio": "$327.000 - $352.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/midtown-santiago/2274"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 29 a 29\n                                                                m² útiles",
+        "precio": "$294.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/midtown-santiago/2274"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:46Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Vive Santa Isabel",
+    "direccion": "Av. Sta. Rosa 537\n                                        , Santiago",
+    "precio": "$296.000 - $535.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/vive-santa-isabel/2584",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Bicicletero",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento de visitas",
+      "Gimnasio",
+      "Jardines",
+      "Lavandería",
+      "Pet Spa",
+      "Piscina",
+      "Portón eléctrico",
+      "Propiedades Nuevas",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de internet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Terraza Panorámica"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 19 a 20\n                                                                m² útiles",
+        "precio": "$296.000 - $298.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/vive-santa-isabel/2584"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 32 a 34\n                                                                m² útiles",
+        "precio": "$351.000 - $357.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/vive-santa-isabel/2584"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 37 a 47\n                                                                m² útiles",
+        "precio": "$389.000 - $535.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/vive-santa-isabel/2584"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:46Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio San Isidro",
+    "direccion": "San Isidro 543\n                                        , Santiago",
+    "precio": "$330.000 - $485.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/san-isidro/3130",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Condominio",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Lavandería",
+      "Pet Spa",
+      "Piscina",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de internet",
+      "Sala de juegos",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Terraza Panorámica",
+      "Transporte urbano cercano",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 22 a 35\n                                                                m² útiles",
+        "precio": "$330.000 - $390.000",
+        "unidades_disponibles": "5",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/san-isidro/3130"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 45 a 45\n                                                                m² útiles",
+        "precio": "$485.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/san-isidro/3130"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:48Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Portugal",
+    "direccion": "Av. Portugal 676\n                                        , Santiago",
+    "precio": "$343.000 - $665.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/portugal/1915",
+    "comodidades": [
+      "Áreas verdes",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Piscina",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Transporte urbano cercano"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 32 a 37\n                                                                m² útiles",
+        "precio": "$343.000 - $390.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/portugal/1915"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 48 a 48\n                                                                m² útiles",
+        "precio": "$512.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/portugal/1915"
+      },
+      {
+        "dormitorios": "3",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 72 a 72\n                                                                m² útiles",
+        "precio": "$665.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/3-dormitorios/portugal/1915"
+      },
+      {
+        "dormitorios": "4",
+        "banos": "4",
+        "m2_utiles": "Departamentos de 104 a 108\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/4-dormitorios/portugal/1915"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:49Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Altavista",
+    "direccion": "Rivas 581\n                                        , San Joaquín",
+    "precio": "$296.000 - $321.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/san-joaquin/edificio/altavista/2789",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Bicicletero",
+      "Conserjería",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Juegos infantiles",
+      "Lavandería",
+      "Multicancha",
+      "Pet Spa",
+      "Piscina",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de juegos",
+      "Salón de Reuniones"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 30 a 45\n                                                                m² útiles",
+        "precio": "$296.000 - $321.000",
+        "unidades_disponibles": "4",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-joaquin/1-dormitorio/altavista/2789"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1 - 2",
+        "m2_utiles": "Departamentos de 42 a 60\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-joaquin/2-dormitorios/altavista/2789"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 26 a 33\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-joaquin/estudio/altavista/2789"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:50Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Nuevo Oriente II",
+    "direccion": "Sta. Elena 1496\n                                        , Santiago",
+    "precio": "$287.000 - $426.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/nuevo-oriente-ii/2936",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Lavandería",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 18 a 20\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/estudio/nuevo-oriente-ii/2936"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 27 a 28\n                                                                m² útiles",
+        "precio": "$287.000 - $294.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/nuevo-oriente-ii/2936"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 46 a 46\n                                                                m² útiles",
+        "precio": "$426.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/nuevo-oriente-ii/2936"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:51Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio MAT",
+    "direccion": "Manuel Antonio Tocornal 343\n                                        , Santiago",
+    "precio": "$350.000 - $460.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/santiago/edificio/mat/3205",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Conserjería",
+      "Cowork",
+      "Cuarto de servicio",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Lavandería",
+      "Lockers",
+      "Portón eléctrico",
+      "Sala de eventos/ gourmet",
+      "Terraza Panorámica",
+      "Transporte urbano cercano",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 33 a 33\n                                                                m² útiles",
+        "precio": "$350.000 - $360.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/1-dormitorio/mat/3205"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 47 a 47\n                                                                m² útiles",
+        "precio": "$460.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/santiago/2-dormitorios/mat/3205"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:52Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Activa Juan Mitjans",
+    "direccion": "Juan Mitjans 135\n                                        , Macul",
+    "precio": "$420.000 - $430.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/macul/edificio/activa-juan-mitjans/1225",
+    "comodidades": [
+      "Accesos Controlados",
+      "Ascensor",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a Vía Principal",
+      "Circuito cerrado de Tv",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Juegos infantiles",
+      "Lavandería",
+      "Piscina",
+      "Portón eléctrico",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Transporte urbano cercano"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 54 a 61\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/macul/2-dormitorios/activa-juan-mitjans/1225"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 38 a 38\n                                                                m² útiles",
+        "precio": "$420.000 - $430.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/macul/1-dormitorio/activa-juan-mitjans/1225"
+      },
+      {
+        "dormitorios": "3",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 66 a 67\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/macul/3-dormitorios/activa-juan-mitjans/1225"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:53Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Alvarez Toledo",
+    "direccion": "Álvarez de Toledo 978\n                                        , San Miguel",
+    "precio": "$499.000 - $513.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/edificio/alvarez-toledo/1537",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Bicicletero",
+      "Circuito cerrado de Tv",
+      "Estacionamiento de visitas",
+      "Gimnasio",
+      "Juegos infantiles",
+      "Lavandería",
+      "Piscina",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Salón lounge"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 46 a 61\n                                                                m² útiles",
+        "precio": "$499.000 - $513.000",
+        "unidades_disponibles": "3",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/2-dormitorios/alvarez-toledo/1537"
+      },
+      {
+        "dormitorios": "3",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 74 a 74\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/3-dormitorios/alvarez-toledo/1537"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 35 a 35\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/1-dormitorio/alvarez-toledo/1537"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:54Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Pedro de Valdivia",
+    "direccion": "Av. Pedro de Valdivia 4170\n                                        , Ñuñoa",
+    "precio": "$470.000 - $590.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/edificio/pedro-de-valdivia/1077",
+    "comodidades": [
+      "Accesos Controlados",
+      "Bodega",
+      "Lavandería"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 43 a 43\n                                                                m² útiles",
+        "precio": "$470.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/1-dormitorio/pedro-de-valdivia/1077"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "2",
+        "m2_utiles": "Departamentos de 48 a 48\n                                                                m² útiles",
+        "precio": "$590.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/2-dormitorios/pedro-de-valdivia/1077"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:55Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Zañartu Capital",
+    "direccion": "Zañartu 1145\n                                        , Ñuñoa",
+    "precio": "$510.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/edificio/zanartu-capital/2632",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Baño de servicio",
+      "Bicicletero",
+      "Bodega",
+      "Cerca a áreas verdes",
+      "Cerca a comercios",
+      "Cerca a Vía Principal",
+      "Cerca de Colegios",
+      "Citófono",
+      "Conserjería",
+      "Estacionamiento",
+      "Estacionamiento de visitas",
+      "Estacionamiento subterráneo",
+      "Gimnasio",
+      "Jardines",
+      "Juegos infantiles",
+      "Lavandería",
+      "Lockers",
+      "Pet Spa",
+      "Piscina",
+      "Portón eléctrico",
+      "Propiedades Nuevas",
+      "Quincho",
+      "Sala de eventos/ gourmet",
+      "Sala de juegos",
+      "Salón de Reuniones",
+      "Salón lounge",
+      "Seguridad",
+      "Transporte urbano cercano",
+      "Ventanas termopanel"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 31 a 68\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/1-dormitorio/zanartu-capital/2632"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 46 a 47\n                                                                m² útiles",
+        "precio": "$510.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/nunoa/2-dormitorios/zanartu-capital/2632"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:57Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Barrio Teresa Vial",
+    "direccion": "Teresa Vial 1175\n                                        , San Miguel",
+    "precio": "$390.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/edificio/barrio-teresa-vial/2767",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Gimnasio",
+      "Lavandería"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 45 a 47\n                                                                m² útiles",
+        "precio": "$390.000",
+        "unidades_disponibles": "2",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/1-dormitorio/barrio-teresa-vial/2767"
+      },
+      {
+        "dormitorios": "2",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 42 a 53\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/san-miguel/2-dormitorios/barrio-teresa-vial/2767"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:46:58Z"
+  },
+  {
+    "Operador": "assetplan",
+    "nombre": "Edificio Factoria Italia",
+    "direccion": "Av. Francisco Bilbao 489\n                                        , Providencia",
+    "precio": "$427.000",
+    "link": "https://www.assetplan.cl/arriendo/departamento/providencia/edificio/factoria-italia/1539",
+    "comodidades": [
+      "Accesos Controlados",
+      "Áreas verdes",
+      "Ascensor",
+      "Circuito cerrado de Tv",
+      "Lavandería",
+      "Quincho"
+    ],
+    "departamentos": [
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 36 a 42\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/providencia/1-dormitorio/factoria-italia/1539"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 30 a 30\n                                                                m² útiles",
+        "precio": "$427.000",
+        "unidades_disponibles": "1",
+        "link": "https://www.assetplan.cl/arriendo/departamento/providencia/estudio/factoria-italia/1539"
+      },
+      {
+        "dormitorios": "1",
+        "banos": "1",
+        "m2_utiles": "Departamentos de 53 a 72\n                                                                m² útiles",
+        "precio": "",
+        "unidades_disponibles": "",
+        "link": "https://www.assetplan.cl/arriendo/departamento/providencia/loft/factoria-italia/1539"
+      }
+    ],
+    "scraped_at": "2025-08-27T19:47:00Z"
+  }
+]

@@ -2,13 +2,16 @@ name: Run Scrapers (simple)
 
 on:
   schedule:
-    # Corre todos los días a las 09:12 UTC (~05:12 en Santiago en invierno).
-    - cron: "12 9 * * *"
-  workflow_dispatch: {}  # permite ejecutarlo manualmente
+    - cron: "12 9 * * *"   # 09:12 UTC
+  workflow_dispatch: {}
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: scraper-inmobiliario
 
     steps:
       - name: Checkout repo
@@ -30,17 +33,14 @@ jobs:
 
       - name: Run scrapers
         run: |
-          cd scraper-inmobiliario
-          python -m src.main
+          python -m src.scrapers.main_scraper
 
-
-      # Opcional: sube lo que se haya generado (si no hay archivos, NO falla)
       - name: Upload outputs (if any)
         uses: actions/upload-artifact@v4
         with:
           name: scraper-output-${{ github.run_id }}
           path: |
-            data/raw/**/*.json
-            data/raw/**/*.jsonl
+            scraper-inmobiliario/data/raw/**/*.json
+            scraper-inmobiliario/data/raw/**/*.jsonl
           if-no-files-found: ignore
           retention-days: 7
